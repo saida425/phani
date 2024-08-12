@@ -16,9 +16,6 @@ public class UpdateRecord {
 			
 			System.out.println("Enter your id :");
 			
-			
-			
-			
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
